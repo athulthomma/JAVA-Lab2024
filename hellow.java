@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-class achutte
+class hellow
 {
  public static void main(String args[])throws IOException
 {
